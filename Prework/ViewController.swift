@@ -19,6 +19,7 @@ class ViewController: UIViewController {
 //        label.textColor = randomColor
 //    }
     
+    
     func changeColor() -> UIColor{
 
         let red = CGFloat.random(in: 0...1)
