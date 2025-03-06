@@ -55,10 +55,6 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <connections>
-                        <outlet property="changeColor" destination="282-ln-jYg" id="sap-KN-KE8"/>
-                        <outlet property="changeTextColor" destination="282-ln-jYg" id="Nld-rw-mwZ"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
